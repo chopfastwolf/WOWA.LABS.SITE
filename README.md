@@ -1,2 +1,2 @@
-# WOWA.LABS.SITE
+# WOWA-LABS-SITE
 wowalabs
